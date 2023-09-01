@@ -1,4 +1,4 @@
-# plugindemo README
+# plugindemo README （vscode插件开发学习）
 
 This is the README for your extension "plugindemo". After writing up a brief description, we recommend including the following sections.
 
